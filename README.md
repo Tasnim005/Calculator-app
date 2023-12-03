@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository]()
-- Live Site URL: [Live Preview]()
+- Solution URL: [Repository](https://github.com/Tasnim005/Calculator-app)
+- Live Site URL: [Live Preview](https://tasnim005.github.io/Calculator-app/)
 
 ## My process
 
